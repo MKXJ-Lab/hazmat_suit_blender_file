@@ -65,6 +65,10 @@
 hazmat-suit-mkxj/
 ├── LICENSE.txt          # CC BY-SA 4.0 协议全文
 ├── README.md            # 本文件
-├── hazmat_suit.blend    # Blender 模型文件（贴图已打包）
-└── images/
-    └── preview.png      # 模型预览图
+    └── 1.png      # 模型预览图
+    └── 2.png      # 模型预览图
+    └── 3.png      # 模型预览图
+    └── 4.png      # 模型预览图
+    └── 5.png      # 模型预览图
+└── hazmat_suit.blend    # Blender 模型文件（贴图已打包）
+
